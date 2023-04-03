@@ -12,3 +12,4 @@ print(type(age), type(pi), type(is_good), type(name))
 student_name = 'Hong Tu'
 student_age = 18
 student_height = 1.80
+is_new = True
