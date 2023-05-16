@@ -9,8 +9,6 @@ mytripler = myfunc(3)
 print(mytripler(10))
 
 # Quiz
-
-
 def sort_by_last_letter(words):
     return sorted(words, key=lambda word: word[-1])
 
@@ -18,7 +16,7 @@ def sort_by_last_letter(words):
 words = ['apple', 'banana', 'cherry', 'melon']
 print(sort_by_last_letter(words))
 
-# Map() Function
+# Map Function
 numbers = [1, 2, 3, 4, 5]
 doubled = list(map(lambda x: x * 2, numbers))
 print(doubled)
