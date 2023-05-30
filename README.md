@@ -1,6 +1,6 @@
 # Learn-Python-with-Me
 
-Welcome to my GitHub space! Here, I will be sharing all the source code for my "Learn Python with Me" tutorial, which is open and accessible to everyone with an interest in Python. I hope you enjoy the lessons and have fun learning this versatile programming language.
+Welcome to my GitHub space! Here, I will be sharing all the source code for my "Learn Python with Me" tutorial, which is open and accessible to everyone with an interest in Python. I hope you enjoy the lessons and have fun learning this versatile programming language. Please find the related online Python course (in Chinese) in the link: https://www.youtube.com/watch?v=6VjfKhfUpXU&list=PLmXntzg0FfA1WXySIKtrM3Bn775yEiktT.
 
 ## Python Learning Outline
 ### Chinese Version
