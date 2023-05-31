@@ -4,7 +4,7 @@ Welcome to my GitHub space! Here, I will be sharing all the source code for my "
 
 ## Python Learning Outline
 ### Chinese Version
-<img width="646" alt="Python课程大纲" src="https://user-images.githubusercontent.com/125934684/227661651-5ed3e8f0-d203-4642-a467-c2a5e458acb3.png">
+<img width="646" alt="Python课程大纲@2x" src="https://github.com/XingshengXu/Learn-Python-with-Me/assets/125934684/f6f359c0-6a2e-4d88-96db-86a960c41ae7">
 
 ### English Version
-<img width="905" alt="Python Learning Outline" src="https://user-images.githubusercontent.com/125934684/227661682-65333f68-49d2-48ac-8910-97945a2b223c.png">
+<img width="887" alt="Python Learning Outline@2x" src="https://github.com/XingshengXu/Learn-Python-with-Me/assets/125934684/48c8547b-359b-4ae0-81bc-8a9f7f49dd26">
