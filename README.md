@@ -1,7 +1,9 @@
 # Learn-Python-with-Me
 
 Welcome to my Learn-Python-with-Me Repository! Here, I will be sharing all the source code for my "Learn Python with Me" tutorial, which is open and accessible to everyone with an interest in Python. I hope you enjoy the lessons and have fun learning this versatile programming language. Please find the related online Python course (in Chinese) in these links: 
+
 Youtube: https://www.youtube.com/watch?v=6VjfKhfUpXU&list=PLmXntzg0FfA1WXySIKtrM3Bn775yEiktT
+
 Bilibili: https://www.bilibili.com/list/1788118237?sid=3180679&spm_id_from=333.999.0.0&desc=1&oid=782122682&bvid=BV1U24y157Q7
 
 ## Python Learning Outline
