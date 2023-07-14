@@ -1,5 +1,5 @@
 # Learn-Python-with-Me
-
+![Learn-Python-with-Me](https://socialify.git.ci/XingshengXu/Learn-Python-with-Me/image?description=1&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fcyberhongtu.files.wordpress.com%2F2023%2F03%2Fcyberhongtu-logo-4.png%3Fresize%3D668%252C668&name=1&pattern=Signal&pulls=1&stargazers=1&theme=Auto)
 Welcome to my Learn-Python-with-Me Repository! Here, I will be sharing all the source code for my "Learn Python with Me" tutorial, which is open and accessible to everyone with an interest in Python. I hope you enjoy the lessons and have fun learning this versatile programming language. Please find the related online Python course (in Chinese) in these links: 
 
 Youtube: https://www.youtube.com/watch?v=6VjfKhfUpXU&list=PLmXntzg0FfA1WXySIKtrM3Bn775yEiktT
