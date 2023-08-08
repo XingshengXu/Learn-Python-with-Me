@@ -1,0 +1,33 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 24,
+    "editor.fontWeight": "1000",
+    "editor.fontFamily": "JetBrains Mono",
+    "debug.console.fontFamily": "JetBrains Mono",
+    "debug.console.fontSize": 22,
+    "terminal.integrated.fontSize": 22,
+    "terminal.integrated.fontWeight": "600",
+    "python.formatting.provider": "autopep8",
+    "editor.formatOnSave": true,
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.ignoreSelection": true,
+    "code-runner.saveFileBeforeRun": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "python.languageServer": "Pylance",
+    "workbench.startupEditor": "none",
+    "breadcrumbs.enabled": false,
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 1,
+}
