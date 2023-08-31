@@ -8,7 +8,8 @@ Bilibili: https://space.bilibili.com/1788118237/channel/seriesdetail?sid=3180679
 
 ## Python Learning Outline
 ### Chinese Version
-<img width="657" alt="Python课程大纲@2x" src="https://github.com/XingshengXu/Learn-Python-with-Me/assets/125934684/f40194ef-6c91-4766-9161-dd131406af4f">
+<img width="657" alt="Python课程大纲@2x" src="https://github.com/XingshengXu/Learn-Python-with-Me/assets/125934684/a11985ed-1bcb-476b-bf98-fe350ecd20f2">
 
 ### English Version
-<img width="957" alt="Python Learning Outline@2x" src="https://github.com/XingshengXu/Learn-Python-with-Me/assets/125934684/25f48e75-7346-49d4-b303-40eee2d7db5c">
+<img width="957" alt="Python Learning Outline@2x" src="https://github.com/XingshengXu/Learn-Python-with-Me/assets/125934684/65802b2c-8c3f-4bd6-be15-0129f454ed28">
+
