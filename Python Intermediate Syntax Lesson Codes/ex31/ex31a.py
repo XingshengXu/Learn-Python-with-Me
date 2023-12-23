@@ -1,11 +1,10 @@
 # 装饰器
 
-# def outer(count):
-#     def inner():
-#         nonlocal count
-#         count += 1
-#         return count
-#     return inner
+def outer(original_function):  # 装饰器
+    def inner():
+        print(f"Call someone's name before {original_function.__name__}.")
+        return original_function()
+    return inner
 
 
 # def say_hi():
