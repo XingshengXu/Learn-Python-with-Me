@@ -4,12 +4,14 @@ Welcome to my Learn-Python-with-Me Repository! Here, I will be sharing all the s
 
 Youtube: https://www.youtube.com/watch?v=6VjfKhfUpXU&list=PLmXntzg0FfA1WXySIKtrM3Bn775yEiktT
 
-Bilibili: https://space.bilibili.com/1788118237/channel/seriesdetail?sid=3180679
+Bilibili: https://space.bilibili.com/3546568005257690/channel/seriesdetail?sid=3712868&ctype=0
 
 ## Python Learning Outline
 ### Chinese Version
-<img width="657" alt="Python课程大纲@2x" src="https://github.com/XingshengXu/Learn-Python-with-Me/assets/125934684/a11985ed-1bcb-476b-bf98-fe350ecd20f2">
+<img width="657" alt="Python课程大纲@2x" src="https://github.com/XingshengXu/Learn-Python-with-Me/assets/125934684/98542d69-1d24-4c36-94bf-17af76e88db7">
+
 
 ### English Version
-<img width="957" alt="Python Learning Outline@2x" src="https://github.com/XingshengXu/Learn-Python-with-Me/assets/125934684/65802b2c-8c3f-4bd6-be15-0129f454ed28">
+<img width="957" alt="Python Learning Outline@2x" src="https://github.com/XingshengXu/Learn-Python-with-Me/assets/125934684/25b09c1c-89aa-4c5e-bcfe-e5ca9b64cef9">
+
 
