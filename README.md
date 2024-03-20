@@ -6,12 +6,10 @@ Youtube: https://www.youtube.com/watch?v=6VjfKhfUpXU&list=PLmXntzg0FfA1WXySIKtrM
 
 Bilibili: https://space.bilibili.com/3546568005257690/channel/seriesdetail?sid=3712868&ctype=0
 
-## Python Learning Outline
+## Python Learning Outline (updated on 03/20/24)
 ### Chinese Version
-<img width="657" alt="Python课程大纲@2x" src="https://github.com/XingshengXu/Learn-Python-with-Me/assets/125934684/98542d69-1d24-4c36-94bf-17af76e88db7">
+<img width="941" alt="Python CN" src="https://github.com/XingshengXu/Learn-Python-with-Me/assets/125934684/02747303-5e37-4b8d-8cae-4bc8b271455f">
 
 
 ### English Version
-<img width="957" alt="Python Learning Outline@2x" src="https://github.com/XingshengXu/Learn-Python-with-Me/assets/125934684/25b09c1c-89aa-4c5e-bcfe-e5ca9b64cef9">
-
-
+<img width="1322" alt="Python EN" src="https://github.com/XingshengXu/Learn-Python-with-Me/assets/125934684/2c1eaf2c-67ac-4b71-a070-5cd98846243d">
