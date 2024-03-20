@@ -4,7 +4,7 @@ Welcome to my Learn-Python-with-Me Repository! Here, I will be sharing all the s
 
 Youtube: https://www.youtube.com/watch?v=6VjfKhfUpXU&list=PLmXntzg0FfA1WXySIKtrM3Bn775yEiktT
 
-Bilibili: https://space.bilibili.com/3546568005257690/channel/seriesdetail?sid=3712868&ctype=0
+Bilibili: https://space.bilibili.com/3546568005257690/channel/collectiondetail?sid=2073787&ctype=0
 
 ## Python Learning Outline (updated on 03/20/24)
 ### Chinese Version
