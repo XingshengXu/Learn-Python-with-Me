@@ -1,0 +1,11 @@
+常规邮箱地址
+cyberhongtu@outlook.com
+cyberhongtu@gmail.com
+cyberhongtu@university.edu
+
+非法邮箱地址
+cyberhongtu@.com
+@gmail.com
+cyberhongtu@gmail
+cyberhongtu@gmail.a
+cyberhongtu.gmail.com
