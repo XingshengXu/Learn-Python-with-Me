@@ -66,7 +66,7 @@ class TestMyFunctions(unittest.TestCase):
         del cls.shared_value_b
 
     def test_add(self):
-        self.assertEqual(add(self.test_value_a, self.test_value_b), 15)
+        self.assertEqual(add(self.shared_value_a, self.shared_value_b), 15)
 
     def test_subtract(self):
-        self.assertEqual(subtract(self.test_value_a, self.test_value_b), 5)
+        self.assertEqual(subtract(self.shared_value_a, self.shared_value_b), 5)
