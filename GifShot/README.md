@@ -6,7 +6,7 @@ A lightweight Python script that allows you to **record a specific area of your 
 
 - Interactive area selection with mouse
 - Records selected screen region as an animated GIF
-- Press `q` to stop recording at any time
+- Press `ESC` to stop recording at any time
 - Adjustable frame duration
 - High-DPI screen compatible
 - Minimal dependencies
@@ -28,6 +28,6 @@ Recommended: Initialize the project with uv — just install uv and run *uv sync
 
 3. Click the bottom-right corner.
 
-4. Press q to stop recording.
+4. Press ESC to stop recording.
 
 5. Your GIF will be saved as output.gif.
