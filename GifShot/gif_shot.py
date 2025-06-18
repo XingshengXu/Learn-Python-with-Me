@@ -57,7 +57,7 @@ def on_press(key):
 def record_gif(top_left, window, output_file, duration=0.1):
     frames = []
 
-    print(f"录制中... 每帧间隔: {duration:.2f}s, 按 'q' 键结束录制。")
+    print(f"录制中... 每帧间隔: {duration:.2f}s, 按 'ESC' 键结束录制。")
 
     with keyboard.Listener(on_press=on_press) as listener:
         while not stop_recording:
