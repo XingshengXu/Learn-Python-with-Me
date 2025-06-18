@@ -1,0 +1,12 @@
+[project]
+name = "gifshot"
+version = "1.0.0"
+description = "Record a selected screen area and save it as an animated GIF."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pillow>=11.2.1",
+    "pyautogui>=0.9.54",
+    "pyinstaller>=6.14.1",
+    "pynput>=1.8.1",
+]
