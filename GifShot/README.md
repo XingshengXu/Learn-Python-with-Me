@@ -22,7 +22,7 @@ A lightweight Python script that allows you to **record a specific area of your 
 Recommended: Initialize the project with uv — just install uv and run `uv sync`.
 
 ## Steps:
-1. Run the script.
+1. Run the script (or simply use .exe file).
 
 2. Click the top-left corner of the window or area you want to record.
 
