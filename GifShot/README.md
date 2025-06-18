@@ -19,7 +19,7 @@ A lightweight Python script that allows you to **record a specific area of your 
   - `pillow`
   - `pynput`
 
-Recommended: Initialize the project with uv — just install uv and run *uv sync*.
+Recommended: Initialize the project with uv — just install uv and run `uv sync`.
 
 ## Steps:
 1. Run the script.
